@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous" />
+  <link rel="stylesheet" href="animation.css" />
+  <link rel="stylesheet" href="footer.css" />
+  <link rel="stylesheet" href="translator.css">
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script defer src="app.js"></script>
+  <meta name="description" content="The most easy and secure way to earn knowledge and money with elympaid.">
+  <meta name="keywords" content="money,learn,quiz app,maths" />
+
+  <script defer type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({ pageLanguage: 'en,hi', includedLanguages: "hi,en", layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+    }
+  </script>
+
+  <script defer type="text/javascript"
+    src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script>
+
+  <script defer>
+    var targetElement = document.getElementById("google_translate_element");
+    var yourContent = "English"
+    targetElement.addEventListener("DOMNodeInserted", () => {
+      $(".goog-te-menu-value span:first").each(function (i, obj) {
+        if (obj.childNodes[0] && obj.childNodes[0].textContent == "Select Language") {
+          $(obj).html(yourContent);
+        }
+      });
+    });
+  </script>
+
+  <script defer>
+    function onMenuClick() {
+      // alert("clicked");
+      var navbar = document.getElementById('navConCon');
+      var responsive_class_name = 'responsive';
+      navbar.classList.toggle(responsive_class_name)
+    }
+  </script>
+
+  <title>Elympiad - A way to Learn and Earn.</title>
+</head>
+
+<body>
+  <div class="heroSection">
+    <div class="heroBg">
+      <div class="headerContainer">
+        <a href="./index.html">
+          <img src="assets/logo.svg" class="mainLogo" />
+        </a>
+        <div class="navContainer ">
+          <div class="navConCon" id="navConCon">
+            <ul class="navListCon">
+              <li>
+                <a class="underLine" href="#aboutUs" onclick="onMenuClick()" id="abtUs">About Us</a>
+              </li>
+              <li>
+                <a class="underLine" href="#faqs" onclick="onMenuClick()" id="">FAQs</a>
+              </li>
+              <li>
+                <a class="underLine" href="./privacyPolicy.html" onclick="onMenuClick()" id="htp">Privacy Policy</a>
+              </li>
+            </ul>
+
+            <div id="google_translate_element" class="googleTrans" style="margin-top: 10px; color: green;"></div>
+          </div>
+        </div>
+        <a class="navIconCon" onclick="onMenuClick()">
+          <i class="fa fa-bars fa-2x navIcon"></i>
+        </a>
+
+
+
+        <!-- <div class="dropdown">
+          <button type="button" class="langButton">
+            <img src="assets/lang.svg" alt="">
+            <span>English</span>
+          </button>
+          <div class="dropdown-options">
+            <a>Hindi</a>
+          </div>
+        </div> -->
+
+      </div>
+      <!-- Earn Knowledge & Money
+      with the Elympaid quiz App -->
+
+      <div class="mainAreaCon">
+        <div class="heroLeft">
+          <span class="mainWord hidden ">Earn Knowledge<br /> & Money At <br /> Same Time <br /></span>
+          <span class="subWord hidden " style="transition-delay: 200ms">The most easy and secure way to earn knowledge
+            and money with
+            elympaid.</span>
+          <div class="appLinks hidden" style="transition-delay: 300ms">
+            <img src="assets/googleplay.png" alt="" class="appIcon" />
+            <img src="assets/appstore.png" alt="" class="appIcon" />
+          </div>
+          <div class="ratingCon hidden" style="transition-delay: 400ms">
+            <img src="assets/Rating Component.png" alt="" class="ratingStar" />
+            <br />
+            <span class="ratingTitle">You need this app if you are a school student</span>
+            <br />
+            <span class="ratingComment">“Wow this app is amazing and so easy to use. While Preparing for my maths exams
+              it helped me alot for practicing my math problem and the great thing is I can earn to at the same
+              time.</span><br />
+            <span class="userName">Prakash Patel</span>
+          </div>
+        </div>
+
+        <div class="heroRight">
+          <img src="assets/money.png" class="moneyImg" alt="">
+          <img src="assets/PhonewithBG.png" class="phoneImg" alt="" />
+        </div>
+      </div>
+      <!-- <div class="downArrowContainer">
+          <img src="assets/arrow-down-circle.svg" alt="" class="downArrow" />
+        </div> -->
+    </div>
+  </div>
+
+  <div class="aboutUs" id="aboutUs">
+    <p class="aboutHeading ">ABOUT US</p>
+    <div class="contentContainer">
+      <div class="leftContent ">
+        <div class="hidden">
+          <span class="heading0">//</span>
+          <span class="heading1">Our Vision</span><br />
+          <span class="heading2 ">MAKE EDUCATION EASIER!</span><br />
+        </div>
+        <div class="hidden" style="transition-delay: 400ms">
+          <span class="heading3 hidden" style="transition-delay: 300ms">“We are proud to launch this app for you.
+            Because always the Indian Education system is harder for the students to learn in a joyful way.
+            For that we made this to easy to study and earn.” -</span>
+          <span class="heading4 hidden" style="transition-delay: 400ms">Viyogi, CEO & Co Founder</span>
+        </div>
+      </div>
+      <div class="">
+        <img src="/assets/aboutus.png" class="aboutImg" alt="" />
+      </div>
+    </div>
+  </div>
+
+  <div class="faqs" id="faqs">
+    <p class="faqHeading titleReveal">FAQs</p>
+    <div class="questionContainer hiddenTop">
+      <details>
+        <summary>What is Elympaid?</summary>
+        <div class="answer">
+          Elympiad is application developed by Indic Arena where you can earn Real Money by using your knowledge.
+          Everyday trivia get published and on that questions get asked in the Quiz. It is totally mcq base quiz.
+          <br><br>
+          It is not only money earning app but also learning app. You can learn more about different topics daily and
+          expand your knowledge. If you are preparing for the competitive exams this is for you.
+        </div>
+      </details>
+    </div>
+    <div class="questionContainer hiddenTop">
+      <details>
+        <summary>Can I withdraw the bonus cash/Indic Coins I get after signing up?</summary>
+        <div class="answer">
+          No, the Indic Coins can be used as entry fees for entering quizes.
+        </div>
+      </details>
+    </div>
+    <div class="questionContainer hiddenTop">
+      <details>
+        <summary>What will my friend/contact have to do for me to get the bonus cash from referrals?</summary>
+        <div class="answer">
+          Your friend will have to sign up on Elympiad either with your referral link or using your referral code during
+          login.
+        </div>
+      </details>
+    </div>
+    <div class="questionContainer hiddenTop">
+      <details>
+        <summary>Will I be able to withdraw the bonus cash I make from referrals?</summary>
+        <div class="answer">
+          No, the Indic Coins can be used as entry fees for entering quizes.
+        </div>
+      </details>
+    </div>
+    <div class="questionContainer hiddenTop">
+      <details>
+        <summary>Is there any tax on my winnings?</summary>
+        <div class="answer">
+          If winning amount is greater than 10,000 Rs then we will deduct TDS ( tax deducted at source) as per the
+          government regulation. <br><br>
+          As per current regulations, Tax will be calculated as follows i.e 30% tax + 4% cess which equals down to 31.2%
+          on the won amount for any amount above 10,000 Rs won in a Quiz.
+        </div>
+      </details>
+    </div>
+    <div class="questionContainer hiddenTop">
+      <details>
+        <summary>When do I get my winnings?</summary>
+        <div class="answer">
+          Whenever you withdraw winnings it may take upto 2-3 business days to process the transaction.
+        </div>
+      </details>
+    </div>
+    <div class="questionContainer hiddenTop">
+      <details>
+        <summary>What are Deposit money, Winnings and Indic coins?</summary>
+        <div class="answer">
+          <b>Deposit money :</b> Money which you deposit in the wallet. You can use this to participate in the quiz. You
+          can't
+          withdraw this Amount from wallet. <br><br>
+          <b>Winnings</b> : Money which you win by participating in the quizes. You can withdraw this money whenever you
+          want. <br><br>
+          <b>Indic Coins</b> : Sign-up and refferal bonus are called as Indic Coins. You can use this Coins to
+          participate in
+          the quizes. <br><br>
+
+        </div>
+      </details>
+    </div>
+    <div class="questionContainer hiddenTop">
+      <details>
+        <summary>Can I have multiple accounts?</summary>
+        <div class="answer">
+          No, you cannot have multiple profiles. 1 person - 1 profile. At any point in time, if we detect that you have
+          multiple ids or are misusing the system in anyway, your account may get terminated, and all money that you may
+          have earned will be forfeited. You may also be banned from using the application.
+        </div>
+      </details>
+    </div>
+    <div class="questionContainer hiddenTop">
+      <details>
+        <summary>What will happen if I am not able to join the quiz in given time?</summary>
+        <div class="answer">
+          You will not get any refund if you are not able to join quiz in given time.
+        </div>
+      </details>
+    </div>
+    <div class="questionContainer hiddenTop">
+      <details>
+        <summary>I want to delete my account, how to do it?</summary>
+        <div class="answer">
+          You can Contact us via Discord. Create ticket and our staff will look into this.
+        </div>
+      </details>
+    </div>
+
+  </div>
+  <br><br>
+
+
+  <div class="smallBanner">
+
+    <div class="leftBanner">
+      <span class="bannerText">
+        Earn Knowledge & Money <br>
+        with the Elympaid quiz App
+      </span>
+      <div class="bannerAppLinks">
+        <img src="assets/googleplay.png" width="288" alt="" class="appIcon" />
+        <img src="assets/appstore.png" width="288" alt="" class="appIcon" />
+      </div>
+    </div>
+
+    <div class="rightBanner">
+      <img src="./assets/iPhone 14.png" class="bannerPhone" alt="">
+      <img src="./assets/money.png" class="bannerMoney" alt="">
+    </div>
+
+  </div>
+
+  <footer class="footer" style="margin-top: 107px;">
+    <div class="container">
+      <div class="row">
+        <div class="footer-col">
+          <h4>company</h4>
+          <ul>
+            <li><a href="#aboutUs">about us</a></li>
+            <li><a href="./privacyPolicy.html">privacy policy</a></li>
+            <li><a href="./disclaimer.html">Disclaimer</a></li>
+            <li><a href="./terms.html">Terms & Conditions</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>get the App</h4>
+          <ul>
+            <li><a href="#">
+                <img src="assets/googleplay.png" width="188" alt="" class="footerAppIcon" />
+              </a></li>
+            <li><a href="#">
+                <img src="assets/appstore.png" width="188" alt="" class="footerAppIcon" />
+              </a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Contact US</h4>
+          <ul>
+            <li><a href="mailto:contactindicstudios@gmail.com">
+                <p><i class="icon ion-email"></i>indicstudios@gmail.com</p>
+              </a>
+            </li>
+
+            <li><a href="mailto:infosicomobile@gmail.com">
+                <p><i class="icon ion-email"></i>infosicomobile@gmail.com</p>
+              </a>
+            </li>
+
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h4>follow us</h4>
+          <div class="social-links">
+            <a href="https://www.linkedin.com/company/indicarena/">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a href="https://www.instagram.com/indicarena/?igshid=srrkwzj48zvj"><i class="fab fa-instagram"></i></a>
+            <a href="https://twitter.com/indicarena?s=08"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.facebook.com/indicarena/"><i class="fab fa-facebook-f"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </footer>
+
+
+</body>
+
+</html>

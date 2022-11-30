@@ -1,0 +1,259 @@
+<svg
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 363 730"
+      class="pointer-events-none absolute top-0 w-full"
+    >
+      <path
+        d="M353.3 188h8.4c.5 0 .9.3.9.7V273c0 .5-.4.8-.9.8h-8.4a.8.8 0 0 1-.8-.8v-84.3c0-.4.3-.8.8-.8z"
+        fill="#12284A"
+      ></path>
+      <path
+        d="M353.3 189h8.4c.5 0 .9.3.9.8v82.5c0 .4-.4.8-.9.8h-8.4a.8.8 0 0 1-.8-.8v-82.5c0-.5.3-.8.8-.8z"
+        fill="url(#iphone-case_svg__a)"
+      ></path>
+      <path
+        d="M1.3 169.4h8.4c.5 0 .8.4.8.8v52c0 .5-.3.9-.8.9H1.3a.8.8 0 0 1-.9-.8v-52c0-.5.4-.9.9-.9z"
+        fill="#12284A"
+      ></path>
+      <path
+        d="M1.3 170.5h8.4c.5 0 .8.3.8.8v50.2c0 .5-.3.8-.8.8H1.3a.8.8 0 0 1-.9-.8v-50.2c0-.5.4-.8.9-.8z"
+        fill="url(#iphone-case_svg__b)"
+      ></path>
+      <path
+        d="M1.3 239.4h8.4c.5 0 .8.4.8.8v52.1c0 .5-.3.8-.8.8H1.3a.8.8 0 0 1-.9-.8v-52c0-.5.4-.9.9-.9z"
+        fill="#12284A"
+      ></path>
+      <path
+        d="M1.3 240.5h8.4c.5 0 .8.4.8.8v50.3c0 .4-.3.8-.8.8H1.3a.8.8 0 0 1-.9-.8v-50.3c0-.4.4-.8.9-.8z"
+        fill="url(#iphone-case_svg__c)"
+      ></path>
+      <path
+        d="M9.7 116.2H1.3c-.5 0-.9.4-.9.8v26.3c0 .5.4.8.9.8h8.4c.5 0 .8-.3.8-.8V117c0-.4-.3-.8-.8-.8z"
+        fill="#12284A"
+      ></path>
+      <path
+        d="M9.7 117.3H1.3c-.5 0-.9.3-.9.8v24.5c0 .4.4.8.9.8h8.4c.5 0 .8-.4.8-.8V118c0-.5-.3-.8-.8-.8z"
+        fill="url(#iphone-case_svg__d)"
+      ></path>
+      <path
+        fill-rule="evenodd"
+        clip-rule="evenodd"
+        d="M59.3.8h244.4c30.7 0 55.6 25 55.6 55.7v617c0 30.8-24.9 55.7-55.6 55.7H59.3c-30.7 0-55.6-25-55.6-55.7v-617C3.7 25.7 28.6.8 59.3.8zM20.8 55.1c0-21 17-38.1 38-38.1H88c4.5 0 6.8.4 6.8 7.5 0 7 4.4 19 20 19h133.6c15.6 0 20-12 20-19s2.3-7.5 6.8-7.5h29c21 0 38.1 17 38.1 38v620c0 21-17 38-38 38H58.8c-21 0-38.1-17-38.1-38V55z"
+        fill="#455D80"
+      ></path>
+      <path
+        d="M58.9 17v.5-.5zM20.8 55h-.5.5zM304 17v.5-.5zm38.1 38h.5-.5zm0 620h-.5.5zm-38 38v-.5.5zm-245.3 0v-.5.5zm-38.1-38h.5-.5zM303.7.2H59.3v1h244.4v-1zm56.1 56.2c0-31-25.1-56.2-56.1-56.2v1a55.1 55.1 0 0 1 55.1 55.2h1zm0 617v-617h-1v617h1zm-56.1 56.2c31 0 56.1-25.2 56.1-56.2h-1a55.1 55.1 0 0 1-55.1 55.2v1zm-244.4 0h244.4v-1H59.3v1zM3.2 673.5c0 31 25.1 56.2 56.1 56.2v-1a55.1 55.1 0 0 1-55.1-55.2h-1zm0-617v617h1v-617h-1zM59.3.3C28.3.3 3.2 25.5 3.2 56.5h1A55.1 55.1 0 0 1 59.3 1.3v-1zM59 16.5A38.6 38.6 0 0 0 20.3 55h1a37.6 37.6 0 0 1 37.6-37.6v-1zm29 0H59v1h29v-1zm7.3 8c0-3.6-.6-5.6-1.9-6.8-.6-.6-1.4-.9-2.3-1-1-.2-2-.2-3-.2v1l2.8.1c.8.2 1.4.4 1.9.9 1 .8 1.5 2.5 1.5 6h1zm19.5 18.4c-7.7 0-12.5-2.9-15.5-6.6-3-3.7-4-8.4-4-11.8h-1c0 3.6 1.1 8.5 4.2 12.4 3.2 4 8.4 7 16.3 7v-1zm133.6 0H114.7v1h133.6v-1zm19.5-18.4c0 3.4-1 8-4 11.8-3 3.7-7.8 6.6-15.5 6.6v1c8 0 13.1-3 16.3-7 3-4 4.2-8.8 4.2-12.4h-1zm7.3-8c-1.2 0-2.2 0-3 .2-1 .1-1.8.4-2.4 1-1.3 1.2-1.9 3.2-1.9 6.8h1c0-3.5.6-5.2 1.5-6 .5-.5 1.1-.7 2-.9l2.8-.1v-1zm29 0h-29v1h29v-1zM342.7 55a38.6 38.6 0 0 0-38.6-38.6v1A37.6 37.6 0 0 1 341.7 55h1zm0 619.8V55.1h-1v619.8h1zm-38.6 38.6a38.6 38.6 0 0 0 38.6-38.6h-1a37.6 37.6 0 0 1-37.6 37.6v1zm-245.2 0H304v-1H59v1zM20.3 675a38.6 38.6 0 0 0 38.6 38.6v-1A37.6 37.6 0 0 1 21.3 675h-1zm0-619.8V675h1V55.1h-1z"
+        fill="#12284A"
+      ></path>
+      <g filter="url(#iphone-case_svg__e)">
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M5.6 56.5c0-29.8 24-53.7 53.7-53.7h244.4c29.7 0 53.7 23.9 53.7 53.7v617c0 29.8-24 53.7-53.7 53.7H59.3c-29.7 0-53.7-23.9-53.7-53.7v-617zM20.8 55c0-21 17-38.1 38-38.1H88c4.5 0 6.8.4 6.8 7.5 0 7 4.4 19 20 19h133.6c15.6 0 20-12 20-19s2.3-7.5 6.8-7.5h29c21 0 38.1 17 38.1 38v620c0 21-17 38-38 38H58.8c-21 0-38.1-17-38.1-38V55z"
+          fill="#142B4B"
+        ></path>
+      </g>
+      <path
+        d="M217.2 33.2a6.6 6.6 0 1 0 0-13.2 6.6 6.6 0 0 0 0 13.2z"
+        fill="#161616"
+      ></path>
+      <path
+        d="M217.2 30.7a4 4 0 1 0 0-8.2 4 4 0 0 0 0 8.2z"
+        fill="#0A0D13"
+      ></path>
+      <path
+        d="M217.2 29.7a3.1 3.1 0 1 0 0-6.2 3.1 3.1 0 0 0 0 6.2z"
+        fill="#091427"
+      ></path>
+      <g filter="url(#iphone-case_svg__f)">
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M215 24.5c-.3 0-.9.6-.9 1.7s.4 1.7.7 1.7c.3 0 1.4-1.6.2-3.4z"
+          fill="#235A91"
+          fill-opacity="0.6"
+        ></path>
+      </g>
+      <g filter="url(#iphone-case_svg__g)">
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M217.7 24.1c-.6.2-.7 1.2-.7 1.7s.8 2 1.7 1.6c1-.3 1-1.5.7-2.2-.4-.8-1-1.4-1.7-1z"
+          fill="#235A91"
+          fill-opacity="0.6"
+        ></path>
+      </g>
+      <path
+        d="M166.7 22.9a3.4 3.4 0 1 0 0 6.8h31.8a3.4 3.4 0 1 0 0-6.8h-31.8z"
+        stroke="#292929"
+        stroke-width="0.2"
+        stroke-linecap="round"
+      ></path>
+      <g filter="url(#iphone-case_svg__h)" fill="#fff">
+        <path
+          d="M163.7 26.3v.4l-.2.3-.3.3h-.5l-.3-.3-.2-.3a1.5 1.5 0 0 1 0-.8l.2-.4.3-.2.3-.1h.3l.2.3.2.4v.4zm38.3 0-.1.4-.2.3-.3.3h-.6l-.2-.3-.2-.3a1.5 1.5 0 0 1 0-.8l.2-.4.2-.2.3-.1h.3l.3.3.2.4v.4z"
+        ></path>
+      </g>
+      <mask
+        id="iphone-case_svg__i"
+        maskUnits="userSpaceOnUse"
+        x="6.8"
+        y="4.4"
+        width="349"
+        height="721"
+        fill="#000"
+      >
+        <path fill="#fff" d="M6.8 4.4h349v721H6.8z"></path>
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M60.3 5.4h242.4c29 0 52.5 23.5 52.5 52.5V672c0 29-23.5 52.5-52.5 52.5H60.3c-29 0-52.5-23.5-52.5-52.5V58c0-29 23.5-52.5 52.5-52.5zM20.8 55.1c0-21 17-38.1 38-38.1H88c4.5 0 6.8.4 6.8 7.5 0 7 4.4 19 20 19h133.6c15.6 0 20-12 20-19s2.3-7.5 6.8-7.5h29c21 0 38.1 17 38.1 38v620c0 21-17 38-38 38H58.8c-21 0-38.1-17-38.1-38V55z"
+        ></path>
+      </mask>
+      <path
+        fill-rule="evenodd"
+        clip-rule="evenodd"
+        d="M60.3 5.4h242.4c29 0 52.5 23.5 52.5 52.5V672c0 29-23.5 52.5-52.5 52.5H60.3c-29 0-52.5-23.5-52.5-52.5V58c0-29 23.5-52.5 52.5-52.5zM20.8 55.1c0-21 17-38.1 38-38.1H88c4.5 0 6.8.4 6.8 7.5 0 7 4.4 19 20 19h133.6c15.6 0 20-12 20-19s2.3-7.5 6.8-7.5h29c21 0 38.1 17 38.1 38v620c0 21-17 38-38 38H58.8c-21 0-38.1-17-38.1-38V55z"
+        fill="#000"
+      ></path>
+      <path
+        d="M58.9 17v.5-.5zM20.8 55h-.5.5zM304 17v.5-.5zm38.1 38h.5-.5zm0 620h-.5.5zm-38 38v-.5.5zm-245.3 0v-.5.5zm-38.1-38h.5-.5zm282-670H60.2v1h242.4V5zm52.9 52.9a53 53 0 0 0-53-53v1a52 52 0 0 1 52 52h1zm0 614.2V58h-1v614h1zm-53 53a53 53 0 0 0 53-53h-1a52 52 0 0 1-52 52v1zm-242.4 0h242.4v-1H60.3v1zm-53-53a53 53 0 0 0 53 53v-1a52 52 0 0 1-52-52h-1zM7.3 58v614h1V58h-1zm53-53a53 53 0 0 0-53 53h1a52 52 0 0 1 52-52V5zm-1.4 11.6A38.6 38.6 0 0 0 20.3 55h1a37.6 37.6 0 0 1 37.6-37.6v-1zm29 0H59v1h29v-1zm7.3 8c0-3.6-.6-5.6-1.9-6.8-.6-.6-1.4-.9-2.3-1-1-.2-2-.2-3-.2v1l2.8.1c.8.2 1.4.4 1.9.9 1 .8 1.5 2.5 1.5 6h1zM114.7 43c-7.7 0-12.5-2.9-15.5-6.6-3-3.7-4-8.4-4-11.8h-1c0 3.6 1.1 8.5 4.2 12.4 3.2 4 8.4 7 16.3 7v-1zm133.6 0H114.7v1h133.6v-1zm19.5-18.4c0 3.4-1 8-4 11.8-3 3.7-7.8 6.6-15.5 6.6v1c8 0 13.1-3 16.3-7 3-4 4.2-8.8 4.2-12.4h-1zm7.3-8c-1.2 0-2.2 0-3 .2-1 .1-1.8.4-2.4 1-1.3 1.2-1.9 3.2-1.9 6.8h1c0-3.5.6-5.2 1.5-6 .5-.5 1.1-.7 2-.9l2.8-.1v-1zm29 0h-29v1h29v-1zM342.7 55a38.6 38.6 0 0 0-38.6-38.6v1A37.6 37.6 0 0 1 341.7 55h1zm0 619.8V55.1h-1v619.8h1zm-38.6 38.6a38.6 38.6 0 0 0 38.6-38.6h-1a37.6 37.6 0 0 1-37.6 37.6v1zm-245.2 0H304v-1H59v1zM20.3 675a38.6 38.6 0 0 0 38.6 38.6v-1A37.6 37.6 0 0 1 21.3 675h-1zm0-619.8V675h1V55.1h-1z"
+        fill="#000"
+        mask="url(#iphone-case_svg__i)"
+      ></path>
+      <defs>
+        <linearGradient
+          id="iphone-case_svg__a"
+          x1="362.6"
+          y1="189"
+          x2="362.6"
+          y2="273.1"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop stop-color="#455D80"></stop>
+          <stop offset="0.2" stop-color="#19365E"></stop>
+          <stop offset="0.8" stop-color="#19365E"></stop>
+          <stop offset="1" stop-color="#455D80"></stop>
+        </linearGradient>
+        <linearGradient
+          id="iphone-case_svg__b"
+          x1="10.5"
+          y1="170.5"
+          x2="10.5"
+          y2="222.3"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop stop-color="#455D80"></stop>
+          <stop offset="0.2" stop-color="#19365E"></stop>
+          <stop offset="0.8" stop-color="#19365E"></stop>
+          <stop offset="1" stop-color="#455D80"></stop>
+        </linearGradient>
+        <linearGradient
+          id="iphone-case_svg__c"
+          x1="10.5"
+          y1="240.5"
+          x2="10.5"
+          y2="292.4"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop stop-color="#455D80"></stop>
+          <stop offset="0.2" stop-color="#19365E"></stop>
+          <stop offset="0.8" stop-color="#19365E"></stop>
+          <stop offset="1" stop-color="#455D80"></stop>
+        </linearGradient>
+        <linearGradient
+          id="iphone-case_svg__d"
+          x1="10.5"
+          y1="117.3"
+          x2="10.5"
+          y2="143.4"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop stop-color="#455D80"></stop>
+          <stop offset="0.2" stop-color="#19365E"></stop>
+          <stop offset="0.8" stop-color="#19365E"></stop>
+          <stop offset="1" stop-color="#455D80"></stop>
+        </linearGradient>
+        <filter
+          id="iphone-case_svg__e"
+          x="3.7"
+          y="0.9"
+          width="355.6"
+          height="728.3"
+          filterUnits="userSpaceOnUse"
+          color-interpolation-filters="sRGB"
+        >
+          <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+          <feBlend
+            in="SourceGraphic"
+            in2="BackgroundImageFix"
+            result="shape"
+          ></feBlend>
+          <feGaussianBlur
+            stdDeviation="1"
+            result="effect1_foregroundBlur"
+          ></feGaussianBlur>
+        </filter>
+        <filter
+          id="iphone-case_svg__f"
+          x="213.9"
+          y="24.3"
+          width="1.9"
+          height="3.9"
+          filterUnits="userSpaceOnUse"
+          color-interpolation-filters="sRGB"
+        >
+          <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+          <feBlend
+            in="SourceGraphic"
+            in2="BackgroundImageFix"
+            result="shape"
+          ></feBlend>
+          <feGaussianBlur
+            stdDeviation="0.1"
+            result="effect1_foregroundBlur"
+          ></feGaussianBlur>
+        </filter>
+        <filter
+          id="iphone-case_svg__g"
+          x="216.8"
+          y="23.8"
+          width="3.1"
+          height="3.9"
+          filterUnits="userSpaceOnUse"
+          color-interpolation-filters="sRGB"
+        >
+          <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+          <feBlend
+            in="SourceGraphic"
+            in2="BackgroundImageFix"
+            result="shape"
+          ></feBlend>
+          <feGaussianBlur
+            stdDeviation="0.1"
+            result="effect1_foregroundBlur"
+          ></feGaussianBlur>
+        </filter>
+        <filter
+          id="iphone-case_svg__h"
+          x="158.3"
+          y="21.3"
+          width="47.5"
+          height="10"
+          filterUnits="userSpaceOnUse"
+          color-interpolation-filters="sRGB"
+        >
+          <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+          <feBlend
+            in="SourceGraphic"
+            in2="BackgroundImageFix"
+            result="shape"
+          ></feBlend>
+          <feGaussianBlur
+            stdDeviation="2"
+            result="effect1_foregroundBlur"
+          ></feGaussianBlur>
+        </filter>
+      </defs>
+    </svg>

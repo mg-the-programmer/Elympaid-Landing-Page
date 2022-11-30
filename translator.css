@@ -1,0 +1,35 @@
+body {
+  /* font-family: 'Manrope'; */
+  top: 0px !important;
+}
+
+.goog-logo-link {
+  display: none !important;
+}
+
+.goog-te-gadget {
+  color: transparent !important;
+}
+
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+.goog-te-gadget-icon {
+  background: none !important;
+}
+
+div#google_translate_element div.goog-te-gadget-simple {
+  font-size: 19px;
+  background-color: black;
+  border-radius: 11px;
+  width: auto;
+  height: 53.92;
+  box-sizing: border-box;
+  padding: 10px 0;
+  border: none;
+}
+
+div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span {
+  color: white;
+}
